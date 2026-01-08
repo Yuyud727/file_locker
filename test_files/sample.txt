@@ -1,0 +1,21 @@
+Hello, World!
+
+Ini adalah file contoh untuk testing aplikasi File Locker.
+
+File ini akan dienkripsi menggunakan algoritma AES-256-CBC.
+Setelah dienkripsi, file ini akan memiliki ekstensi .locked
+dan tidak bisa dibuka tanpa password yang benar.
+
+Test content:
+- Baris 1: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- Baris 2: abcdefghijklmnopqrstuvwxyz
+- Baris 3: 0123456789
+- Baris 4: !@#$%^&*()_+-=[]{}|;':",.<>?/
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+========================================
+File Locker - AES-256-CBC Encryption
+Tugas Kuliah Keamanan Informasi
+========================================
